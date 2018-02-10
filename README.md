@@ -7,4 +7,4 @@ The main agenda of the meetup is to plan events, meetups and activities of GDG C
 Link : http://bit.ly/gdgchreg
 
 ## Blog Post Request Form
-http://bit.ly/gdgcblog
+Link : http://bit.ly/gdgcblog
