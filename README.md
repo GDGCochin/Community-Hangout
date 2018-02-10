@@ -6,5 +6,8 @@ The main agenda of the meetup is to plan events, meetups and activities of GDG C
 ## Registration
 Link : http://bit.ly/gdgchreg
 
+## Slack Channel
+Invite Link : http://gdgcochin.herokuapp.com
+
 ## Blog Post Request Form
 Link : http://bit.ly/gdgcblog
