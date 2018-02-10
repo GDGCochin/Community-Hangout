@@ -3,8 +3,8 @@ Community meetup for the Volunteers, Speakers and community members who've been 
 
 The main agenda of the meetup is to plan events, meetups and activities of GDG Cochin in 2018.
 
-#Registration
+## Registration
 Link : http://bit.ly/gdgchreg
 
-#Blog Post Request Form
+## Blog Post Request Form
 http://bit.ly/gdgcblog
