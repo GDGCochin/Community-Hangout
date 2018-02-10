@@ -11,3 +11,6 @@ Invite Link : http://gdgcochin.herokuapp.com
 
 ## Blog Post Request Form
 Link : http://bit.ly/gdgcblog
+
+## 2018 Plans Trello 
+Link : https://trello.com/b/iPFgCjGO
