@@ -1,9 +1,9 @@
 # Core Community meetup with contributors and volunteers
 
-## Number of attendees: 15
+### Number of attendees: 15
 
 ## Discussion Contents:-
-          * 2018 Community Plans - Meetups and Events
+* 2018 Community Plans - Meetups and Events
           * Github Content Creation
           * How to add more values into the community(Developers)
           * Quantity vs Quality ?
