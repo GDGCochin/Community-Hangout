@@ -4,12 +4,12 @@
 
 ## Discussion Contents:-
           * 2018 Community Plans - Meetups and Events
-          *Github Content Creation
-          *How to add more values into the community(Developers)
-          *Quantity vs Quality ?
-          *More into students / Professionals ?
-          *Increasing WTM involvement in the community
-          *Design Events in the GDG Cochin 
+          * Github Content Creation
+          * How to add more values into the community(Developers)
+          * Quantity vs Quality ?
+          * More into students / Professionals ?
+          * Increasing WTM involvement in the community
+          * Design Events in the GDG Cochin 
 
 ## What we’ve done:-
 Talks about community plans and events of 2018 
