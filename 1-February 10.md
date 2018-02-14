@@ -14,7 +14,7 @@
 ## What we’ve done:-
 * Talks about community plans and events of 2018 
 * In Person discussion with everyone in the community
-* ### Activity : Created groups on Development.Design,Promotion etc and had a discussion about bringing GDG to the next level in all this aspects
+* ##### Activity : Created groups on Development.Design,Promotion etc and had a discussion about bringing GDG to the next level in all this aspects
 
 ## Other Plans :-
 * Complete the GitHub Resource Materials by this quarter (Android and ML)
